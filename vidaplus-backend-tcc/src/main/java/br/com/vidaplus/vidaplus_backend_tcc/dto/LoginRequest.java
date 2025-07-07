@@ -1,0 +1,3 @@
+package br.com.vidaplus.vidaplus_backend_tcc.dto;
+
+public record LoginRequest(String email, String senha) {}
